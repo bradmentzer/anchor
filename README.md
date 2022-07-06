@@ -8,13 +8,11 @@ This is a simple program built on the Solana network using Anchor. It takes in a
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Yarn](https://yarnpkg.com/getting-started/install)
 
-- Install the [Anchor version manager](https://book.anchor-lang.com/getting_started/installation.html)
+- [Anchor version manager](https://book.anchor-lang.com/getting_started/installation.html)
 
 ## Solana
 
-https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda
-
-Solana is an open source permissionless blockchain with 1500 ndes capable of 50k TPS.
+[Solana](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda) is an open source permissionless blockchain with 1500 ndes capable of 50k TPS.
 
 Comprised of multiple clustors or networks
 
