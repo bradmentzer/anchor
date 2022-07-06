@@ -2,7 +2,7 @@
 
 This is a simple program built on the Solana network using Anchor. It takes in a string parameter, like a name, and returns GM to that string.
 
-## Dependensies:
+## Dependencies:
 
 - [Rust](https://www.rust-lang.org/tools/install)
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
